@@ -1,0 +1,7 @@
+.section {
+  padding-top: 30px;
+}
+
+.section:last-child {
+  padding-bottom: 30px;
+}
